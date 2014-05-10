@@ -1,0 +1,96 @@
+body {
+	//background-color: #f5a;
+    background-image: url('img/ime.jpg');
+    background-repeat: no-repeat;
+    margin: 0px;
+    padding: 0px 0px;
+}
+
+.divisao {
+    padding-left: 15%;
+    padding-right: 15%;
+    margin: 30px 0px;
+    min-width: 1000px;
+    overflow: hidden;
+}
+
+/* HEADER STYLE */
+header {
+    background-color: rgb(68, 68, 68);
+    background-color: rgba(68, 68, 68, 0.85);
+}
+
+header h1 {
+    color: #af5;
+    font-size: 70px;  
+}
+
+header p {
+    color: #5af;
+}
+
+header .special {
+    color: #a5a5a5;
+}
+
+header ul {
+    margin-left: 50px;
+    margin-top: 10px; 
+    list-style: none;
+}
+
+header #content {
+    margin: 20px 0px;
+    display: block;
+    float: left;
+}
+
+header figure {
+    margin: 0px;
+    padding: 0px;
+    float: right;
+    height: 234px; /* Poderia usar uma variavel no javascript */
+}
+
+header #myImage {
+    height: 100%;
+}
+/* END HEADER STYLE *;
+
+
+/* ARTICLE STYLE */
+article {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: rgb(68, 68, 68);
+    background-color: rgba(68, 68, 68, 0.85);}
+}
+
+article p {
+    margin-left: 50px;
+}
+
+h1 {
+    color: #95f;
+    font-family: "Trebuchet MS";
+    font-weight: lighter;
+    font-size: 35px;
+
+    margin: 0px;
+}
+
+h2 {
+    font-family: "Lucida Console", Monaco, monospace;
+    color: #999;
+    font-size: 24px;
+    margin: 0px 0px;
+}
+
+p {
+    font-family: "Lucida Console", Monaco, monospace;
+    font-size: 20px;
+    color: #ddd;
+    text-align: justify;
+    margin: 0px 0px;
+}
+    
